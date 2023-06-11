@@ -1,6 +1,7 @@
 # Adding config.py file.
 config.py
 .DS_Store
+.ipynb_checkpoints
 # Adding Additional files
 API_practice.ipynb
 random_numbers.ipynb

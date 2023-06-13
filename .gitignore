@@ -1,13 +1,13 @@
 # Adding config.py file.
-config.py
-.DS_Store
+* config.py
+* .DS_Store
 .ipynb_checkpoints
 # Adding Additional files
 API_practice.ipynb
 random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
+* __pycache__/
 *.py[cod]
 *$py.class
 
